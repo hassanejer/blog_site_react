@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# The Dev Blog using React Js 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project i cover all the basics - components & routing - state management, async code, built-in hooks & custom hooks too.
 
 ## Available Scripts
 
